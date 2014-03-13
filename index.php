@@ -1,2 +1,1 @@
-Hello.... again.
-Let's git going!
+Hello.... again
